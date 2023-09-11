@@ -8,4 +8,4 @@
 - List two
 - List three
   
-Please check link: [Link] ([https://github.com/aaron1986.io/](https://aaron1986.github.io/reading-notes/)
+Please check link: [Link] (Link)
