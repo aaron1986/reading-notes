@@ -8,5 +8,4 @@
 - List two
 - List three
   
-Please check link: [Link] (Link)
 [I'm an inline-style link](https://www,google.com)
