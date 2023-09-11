@@ -20,7 +20,7 @@ We use Markdown to help give instructions to either ourselves when coding (after
 `
 
 [Google](https://www.google.com)
-[link]([https://www.google.com](https://aaron1986.github.io/reading-notes/link))
+[link](link))
 
 ~~The world is flat.~~
 - List one
