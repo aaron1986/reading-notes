@@ -27,11 +27,6 @@ We use Markdown to help give instructions to either ourselves when coding (after
 
 [Google](https://www.google.com)
 
-## My Markdown link:
-[link](link)
-
-
-
 ~~The world is flat.~~
 - List one
 - List two
