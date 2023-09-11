@@ -19,7 +19,11 @@ We use Markdown to help give instructions to either ourselves when coding (after
 
 [Google](https://www.google.com)
 
+## My Markdown link:
 [link](link)
+
+## Why Tech Educators.
+I simply want a job in coding, either as a C# (.NET) coder or as a web developer (php). 
 
 ~~The world is flat.~~
 - List one
