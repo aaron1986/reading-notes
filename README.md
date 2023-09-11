@@ -11,17 +11,12 @@ We use Markdown to help give instructions to either ourselves when coding (after
 **bold text**
 
 `code:
-<!DOCTYPE html>
-<html>
-<head>
-<title>Title of the document</title>
-</head>
-
-<body>
-The content of the document......
-</body>
-
-</html> 
+   <!DOCTYPE html>
+   <html>
+   <head>
+   <title>Title of the document</title>
+   </head>
+   </html> 
 `
 
 [Google](https://www.google.com)
