@@ -10,17 +10,16 @@ We use Markdown to help give instructions to either ourselves when coding (after
 
 **bold text**
 
-`code:
-   <!DOCTYPE html>
-   <html>
-   <head>
-   <title>Title of the document</title>
-   </head>
-   </html> 
-`
+`<!DOCTYPE html>
+      <html>
+      <head>
+      <title>Title of the document</title>
+      </head>
+      </html>`
 
 [Google](https://www.google.com)
-[link](link))
+
+[link](link)
 
 ~~The world is flat.~~
 - List one
